@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Choose Fuzionworks?
-description: The Advantages
+title: The Fuzionworks Advantage
+description: Why Choose Fuzionworks?
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
